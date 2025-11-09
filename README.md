@@ -70,7 +70,7 @@ It’s responsive, minimal, and crafted to feel like a digital extension of my c
 The site is live and deployed via **GitHub Pages**.
 
 **🔗 Live URL:**  
-👉 [https://yourusername.github.io/portfolio](https://yourusername.github.io/portfolio)
+👉 https://tsepangteele.github.io/TSETEE25526_FTO2506_Group_A_Tsepang-Teele-CDV05-2025/
 
 ---
 
